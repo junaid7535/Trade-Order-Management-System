@@ -1,1 +1,2 @@
 ## Trade Order Management System
+A production-grade, full-stack application simulating a real-world financial trading platform. This system models the complete trade lifecycle from order entry to settlement, with a focus on data integrity, auditability, and real-time processing.
